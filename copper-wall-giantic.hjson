@@ -1,0 +1,11 @@
+name: Giantic Copper Wall
+description: Protects structures from enemy projectiles.
+details: " Code: 夜狐
+ Textures: Anuken (Edit 夜狐)"
+type: wall
+health: 3100
+size: 4
+requirements: [
+  copper/96
+]
+category: defense
