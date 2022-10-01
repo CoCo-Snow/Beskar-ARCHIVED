@@ -14,7 +14,7 @@
 > 
 > Description: 夜狐
 > 
-> Texture: Anuken [[Original Files](https://mindustrygame.github.io/wiki/images/block-melter-ui.png) (Edit 夜狐)]
+> Texture: Anuken (Edit 夜狐) [[Original Files](https://mindustrygame.github.io/wiki/images/block-melter-ui.png)]
 > 
 > Translations: 夜狐
 
