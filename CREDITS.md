@@ -2,8 +2,11 @@
 
 AA-Firefly
 > Name: VoidFox
+> 
 > Description: VoidFox
+> 
 > Texture: VoidFox, 夜狐
+> 
 > Translations: 夜狐
 
 Aluminum Factory
