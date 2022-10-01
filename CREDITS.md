@@ -23,7 +23,7 @@
 > 
 > Description: 夜狐
 > 
-> Texture: Fresh791 [https://github.com/Fresh791/Fading-Revelations/tree/main/sprites/blocks/conveyors/surge-alloy (Edit 夜狐)]
+> Texture: Fresh791 (Edit 夜狐) [[Original Files](https://github.com/Fresh791/Fading-Revelations/tree/main/sprites/blocks/conveyors/surge-alloy)]
 > 
 > Translations: 夜狐
 
