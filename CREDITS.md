@@ -53,7 +53,16 @@
 > 
 > Translations: 夜狐
 
-
+### [#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Copper Wall
+> Name: VoidFox 夜狐
+> 
+> Description: VoidFox 夜狐
+> 
+> Code: 夜狐
+> 
+> Textures: VoidFox 夜狐
+> 
+> Translations: 夜狐
 
 ### 
 > Name: VoidFox 夜狐
