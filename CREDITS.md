@@ -29,7 +29,7 @@
 > 
 > Code: [夜狐](https://github.com/Yoru-Kitsune)
 > 
-> Textures: Fresh791 (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> Textures: [Fresh791](https://github.com/Fresh791) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
