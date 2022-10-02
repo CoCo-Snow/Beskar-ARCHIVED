@@ -16,9 +16,11 @@
 > 
 > Code: 夜狐
 > 
-> Textures: Anuken (Edit 夜狐) [[Original Files](https://mindustrygame.github.io/wiki/images/block-melter-ui.png)]
+> Textures: Anuken (Edit 夜狐)
 > 
 > Translations: 夜狐
+>
+> Original Files: [[block-melter-ui.png](https://mindustrygame.github.io/wiki/images/block-melter-ui.png)]
 
 ### Beskar Conveyor
 > Name: 夜狐
@@ -65,7 +67,7 @@
 > Translations: Anuken, 夜狐 [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
 
 ### Deluxe Copper Wall
-> Name: 夜狐
+> Name: Anuken (Edit 夜狐) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
 > 
 > Description: Anuken [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
 > 
