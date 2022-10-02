@@ -98,7 +98,7 @@
 > 
 > Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [Midustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [scrap-wall-gigantic.png](https://mindustrygame.github.io/wiki/images/block-scrap-wall-huge-ui.png); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
+> Original Files: [Midustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [scrap-wall-huge.png](https://mindustrygame.github.io/wiki/images/block-scrap-wall-huge-ui.png); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
 
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
