@@ -53,16 +53,16 @@
 > 
 > Translations: 夜狐
 
-### [#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Copper Wall
-> Name: VoidFox 夜狐
+### Deluxe Copper Wall
+> Name: 夜狐
 > 
-> Description: VoidFox 夜狐
+> Description: Anuken [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
 > 
 > Code: 夜狐
 > 
-> Textures: VoidFox 夜狐
+> Textures: Anuken (Edit 夜狐) [[Original Files](https://mindustrygame.github.io/wiki/images/block-scrap-wall-gigantic-ui.png)]
 > 
-> Translations: 夜狐
+> Translations: Anuken, 夜狐 [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
 
 ### 
 > Name: VoidFox 夜狐
