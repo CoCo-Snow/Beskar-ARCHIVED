@@ -20,7 +20,7 @@
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [block-melter-ui.png](https://mindustrygame.github.io/wiki/images/block-melter-ui.png)
+> Original Files: [melter.png](https://mindustrygame.github.io/wiki/images/block-melter-ui.png)
 
 ### Beskar Conveyor
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
@@ -42,9 +42,11 @@
 > 
 > Code: [夜狐](https://github.com/Yoru-Kitsune)
 > 
-> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune)) [[Original Files](https://mindustrygame.github.io/wiki/images/block-separator-ui.png)]
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [separator.png](https://mindustrygame.github.io/wiki/images/block-separator-ui.png)
 
 ### Circuit Board Smith
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
@@ -53,31 +55,37 @@
 > 
 > Code: [夜狐](https://github.com/Yoru-Kitsune)
 > 
-> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune)) [[Original Files](https://mindustrygame.github.io/wiki/images/block-incinerator-ui.png)]
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [incinerator.png](https://mindustrygame.github.io/wiki/images/block-incinerator-ui.png)
 
 ### Deluxe Copper Wall
-> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune)) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
-> Description: [Anuken](https://github.com/Anuken) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> Description: [Anuken](https://github.com/Anuken)
 > 
 > Code: [夜狐](https://github.com/Yoru-Kitsune)
 > 
-> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune)) [[Original Files](https://mindustrygame.github.io/wiki/images/block-scrap-wall-gigantic-ui.png)]
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
-> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [MidustryWiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [scrap-wall-gigantic.png](https://mindustrygame.github.io/wiki/images/block-scrap-wall-gigantic-ui.png)
 
 ### Deluxe Copper Wall
-> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune)) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
-> Description: [Anuken](https://github.com/Anuken) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> Description: [Anuken](https://github.com/Anuken)
 > 
 > Code: [夜狐](https://github.com/Yoru-Kitsune)
 > 
-> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune)) [[Original Files](https://mindustrygame.github.io/wiki/images/block-scrap-wall-gigantic-ui.png)]
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
-> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [MidustryWiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [scrap-wall-gigantic.png](https://mindustrygame.github.io/wiki/images/block-scrap-wall-gigantic-ui.png)
 
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
@@ -89,3 +97,5 @@
 > Textures: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
+>
+> Original Files: 
