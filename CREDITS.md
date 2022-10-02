@@ -20,7 +20,7 @@
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [Mindutry/wiki/blocks/melter](https://mindustrygame.github.io/wiki/blocks/165-melter/)
+> Original Files: [Mindustry/wiki/blocks/melter](https://mindustrygame.github.io/wiki/blocks/165-melter/)
 
 ### Beskar Conveyor
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
@@ -46,7 +46,7 @@
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files:[Mindutry/wiki/blocks/separator](https://mindustrygame.github.io/wiki/blocks/166-separator/)
+> Original Files:[Mindustry/wiki/blocks/separator](https://mindustrygame.github.io/wiki/blocks/166-separator/)
 
 ### Circuit Board Smith
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
@@ -59,7 +59,7 @@
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [Mindutry/wiki/blocks/incinerator](https://mindustrygame.github.io/wiki/blocks/171-incinerator/)
+> Original Files: [Mindustry/wiki/blocks/incinerator](https://mindustrygame.github.io/wiki/blocks/171-incinerator/)
 
 ### Deluxe Copper Wall
 > Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
@@ -72,7 +72,7 @@
 > 
 > Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [Midustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+> Original Files: [Mindustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
 
 ### Gigantic Copper Wall
 > Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
@@ -85,7 +85,7 @@
 > 
 > Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [Midustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+> Original Files: [Mindustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
 
 ### Huge Copper Wall
 > Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
@@ -98,7 +98,7 @@
 > 
 > Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [Midustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
+> Original Files: [Mindustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
 
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
