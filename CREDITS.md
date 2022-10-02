@@ -1,11 +1,11 @@
 # Blocks
 
 ### AA-Firefly
-> Name: VoidFox
+> Name: [VoidFox](https://github.com/VoidF0x)
 > 
-> Description: VoidFox
+> Description: [VoidFox](https://github.com/VoidF0x)
 > 
-> Textures: VoidFox, 夜狐
+> Textures: [VoidFox](https://github.com/VoidF0x), 夜狐
 > 
 > Translations: 夜狐
 
@@ -80,12 +80,12 @@
 > Translations: Anuken, 夜狐 [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
 
 ### 
-> Name: VoidFox 夜狐
+> Name: [VoidFox](https://github.com/VoidF0x) 夜狐
 > 
-> Description: VoidFox 夜狐
+> Description: [VoidFox](https://github.com/VoidF0x) 夜狐
 > 
-> Code: 夜狐
+> Code: [VoidFox](https://github.com/VoidF0x) 夜狐
 > 
-> Textures: VoidFox 夜狐
+> Textures: [VoidFox](https://github.com/VoidF0x) 夜狐
 > 
 > Translations: 夜狐
