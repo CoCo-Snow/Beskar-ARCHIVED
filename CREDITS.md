@@ -46,7 +46,7 @@
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files:[Mindustry/wiki/blocks/separator](https://mindustrygame.github.io/wiki/blocks/166-separator/)
+> Original Files: [Mindustry/wiki/blocks/separator](https://mindustrygame.github.io/wiki/blocks/166-separator/)
 
 ### Circuit Board Smith
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
