@@ -20,7 +20,7 @@
 > 
 > Translations: 夜狐
 >
-> Original Files: [[block-melter-ui.png](https://mindustrygame.github.io/wiki/images/block-melter-ui.png)]
+> Original Files: [block-melter-ui.png](https://mindustrygame.github.io/wiki/images/block-melter-ui.png)
 
 ### Beskar Conveyor
 > Name: 夜狐
