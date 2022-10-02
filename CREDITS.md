@@ -42,6 +42,17 @@
 > 
 > Translations: 夜狐
 
+### Circuit Board Smith
+> Name: 夜狐
+> 
+> Description: 夜狐
+> 
+> Code: 夜狐
+> 
+> Textures: Anuken (Edit 夜狐) [[Original Files](https://mindustrygame.github.io/wiki/images/block-incinerator-ui.png)]
+> 
+> Translations: 夜狐
+
 ### 
 > Name: VoidFox 夜狐
 > 
