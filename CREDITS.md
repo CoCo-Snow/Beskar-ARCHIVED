@@ -54,6 +54,17 @@
 > Translations: 夜狐
 
 ### Deluxe Copper Wall
+> Name: Anuken (Edit 夜狐) [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> 
+> Description: Anuken [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+> 
+> Code: 夜狐
+> 
+> Textures: Anuken (Edit 夜狐) [[Original Files](https://mindustrygame.github.io/wiki/images/block-scrap-wall-gigantic-ui.png)]
+> 
+> Translations: Anuken, 夜狐 [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
+
+### Deluxe Copper Wall
 > Name: 夜狐
 > 
 > Description: Anuken [[Original Files](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/)]
