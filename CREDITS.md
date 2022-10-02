@@ -29,9 +29,11 @@
 > 
 > Code: 夜狐
 > 
-> Textures: Fresh791 (Edit 夜狐) [[Original Files](https://github.com/Fresh791/Fading-Revelations/tree/main/sprites/blocks/conveyors/surge-alloy)]
+> Textures: Fresh791 (Edit 夜狐)
 > 
 > Translations: 夜狐
+>
+> Original Files: [Original Files](https://github.com/Fresh791/Fading-Revelations/tree/main/sprites/blocks/conveyors/surge-alloy)
 
 ### Carbon Smith
 > Name: 夜狐
