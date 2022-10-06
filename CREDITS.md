@@ -4,6 +4,8 @@
 > Name: [VoidFox](https://github.com/VoidF0x)
 > 
 > Description: [VoidFox](https://github.com/VoidF0x)
+>
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
 > 
 > Textures: [VoidFox](https://github.com/VoidF0x), [夜狐](https://github.com/Yoru-Kitsune)
 > 
