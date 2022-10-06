@@ -200,6 +200,19 @@
 >
 > Original Files: [Mindustry/sprites/blocks/turrets/bases/block-4.png](https://raw.githubusercontent.com/Anuken/Mindustry/master/core/assets-raw/sprites/blocks/turrets/bases/block-4.png); [Fading-Revelations/sprites/blocks/turrets/liquid/sprunkler.png](https://raw.githubusercontent.com/Fresh791/Fading-Revelations/main/sprites/blocks/turrets/liquid/sprunkler.png)
 ---
+### Steel Smith
+> Name: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Description: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/separator](https://mindustrygame.github.io/wiki/blocks/166-separator/)
+---
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
 > 
