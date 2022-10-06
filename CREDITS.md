@@ -137,6 +137,45 @@
 >
 > Original Files: [Mindustry/wiki/blocks/overdrive-projector](https://mindustrygame.github.io/wiki/blocks/219-overdrive-projector/)
 ---
+### Deluxe Phase Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/phase-wall](https://mindustrygame.github.io/wiki/blocks/196-phase-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Gigantic Phase Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/phase-wall](https://mindustrygame.github.io/wiki/blocks/196-phase-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Huge Phase Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/phase-wall](https://mindustrygame.github.io/wiki/blocks/196-phase-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
+---
 ### Deluxe Plastanium Wall
 > Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
@@ -213,6 +252,44 @@
 >
 > Original Files: [Mindustry/wiki/blocks/separator](https://mindustrygame.github.io/wiki/blocks/166-separator/)
 ---
+### Deluxe Surge Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/surge-wall](https://mindustrygame.github.io/wiki/blocks/198-surge-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Gigantic Surge Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/surge-wall](https://mindustrygame.github.io/wiki/blocks/198-surge-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Huge Surge Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/surge-wall](https://mindustrygame.github.io/wiki/blocks/198-surge-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
 > 
