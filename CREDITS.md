@@ -122,7 +122,20 @@
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
-> Original Files: [Minustry/wiki/blocks/silicon-smelter](https://mindustrygame.github.io/wiki/blocks/156-silicon-smelter/)
+> Original Files: [Mindustry/wiki/blocks/silicon-smelter](https://mindustrygame.github.io/wiki/blocks/156-silicon-smelter/)
+
+### Overdrive Projector
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [夜狐](https://github.com/Yoru-Kitsune), [Anuken](https://github.com/Anuken)
+>
+> Original Files: [Mindustry/wiki/blocks/overdrive-projector](https://mindustrygame.github.io/wiki/blocks/219-overdrive-projector/)
 
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
