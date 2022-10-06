@@ -10,7 +10,7 @@
 > Textures: [VoidFox](https://github.com/VoidF0x), [夜狐](https://github.com/Yoru-Kitsune)
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
-
+---
 ### Aluminum Factory
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
 > 
@@ -23,7 +23,7 @@
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 >
 > Original Files: [Mindustry/wiki/blocks/melter](https://mindustrygame.github.io/wiki/blocks/165-melter/)
-
+---
 ### Beskar Conveyor
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
 > 
