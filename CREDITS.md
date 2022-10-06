@@ -111,6 +111,19 @@
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
 
+### Iron Smelter
+> Name: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Description: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures:  [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Minustry/wiki/blocks/silicon-smelter](https://mindustrygame.github.io/wiki/blocks/156-silicon-smelter/)
+
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
 > 
