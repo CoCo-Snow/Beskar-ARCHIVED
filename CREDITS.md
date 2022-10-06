@@ -102,6 +102,15 @@
 >
 > Original Files: [Mindustry/wiki/blocks/copper-wall](https://mindustrygame.github.io/wiki/blocks/187-copper-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
 
+### Gold Smelter
+> Name: [VoidFox](https://github.com/VoidF0x)
+> 
+> Description: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Code: [VoidFox](https://github.com/VoidF0x) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [夜狐](https://github.com/Yoru-Kitsune)
+
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
 > 
