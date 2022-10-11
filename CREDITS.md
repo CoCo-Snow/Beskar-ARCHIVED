@@ -292,6 +292,33 @@
 > Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
 >
 > Original Files: [Mindustry/wiki/blocks/surge-wall](https://mindustrygame.github.io/wiki/blocks/198-surge-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
+---
+### Huge Thermal Generator
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+>
+> Original Files: [Mindustry/wiki/blocks/thermal-generator](https://mindustrygame.github.io/wiki/blocks/280-thermal-generator/)
+---
+### Thermal Generator
+> Name: [Anuken](https://github.com/Anuken)
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+>
+> Original Files: [Mindustry/wiki/blocks/thermal-generator](https://mindustrygame.github.io/wiki/blocks/280-thermal-generator/)
+---
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
 > 
