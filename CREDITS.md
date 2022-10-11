@@ -5,11 +5,13 @@
 > 
 > Description: [VoidFox](https://github.com/VoidF0x)
 >
-> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> Code: [夜狐](https://github.com/Yoru-Kitsune), [z0mbiesrock](https://github.com/z0mbiesrock) (Edit [夜狐](https://github.com/Yoru-Kitsune))
 > 
 > Textures: [VoidFox](https://github.com/VoidF0x), [夜狐](https://github.com/Yoru-Kitsune)
 > 
 > Translations: [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [z0mbiesrock/Diamond-Ore/scripts/blocks/ancients](https://github.com/z0mbiesrock/Diamond-Ore/blob/6.0/scripts/blocks/ancients.js)
 ---
 ### Aluminum Factory
 > Name: [夜狐](https://github.com/Yoru-Kitsune)
