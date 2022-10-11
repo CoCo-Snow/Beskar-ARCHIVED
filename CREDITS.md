@@ -319,6 +319,84 @@
 >
 > Original Files: [Mindustry/wiki/blocks/thermal-generator](https://mindustrygame.github.io/wiki/blocks/280-thermal-generator/)
 ---
+### Deluxe Thorium Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/thorium-wall](https://mindustrygame.github.io/wiki/blocks/194-thorium-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Gigantic Thorium Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/thorium-wall](https://mindustrygame.github.io/wiki/blocks/194-thorium-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Huge Thorium Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/thorium-wall](https://mindustrygame.github.io/wiki/blocks/194-thorium-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
+---
+### Deluxe Titanium Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/titanium-wall](https://mindustrygame.github.io/wiki/blocks/190-titanium-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Gigantic Titanium Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/titanium-wall](https://mindustrygame.github.io/wiki/blocks/190-titanium-wall/); [Mindustry/wiki/blocks/scrap-wall-gigantic](https://mindustrygame.github.io/wiki/blocks/204-scrap-wall-gigantic/)
+---
+### Huge Titanium Wall
+> Name: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Description: [Anuken](https://github.com/Anuken)
+> 
+> Code: [夜狐](https://github.com/Yoru-Kitsune)
+> 
+> Textures: [Anuken](https://github.com/Anuken) (Edit [夜狐](https://github.com/Yoru-Kitsune))
+> 
+> Translations: [Anuken](https://github.com/Anuken), [夜狐](https://github.com/Yoru-Kitsune)
+>
+> Original Files: [Mindustry/wiki/blocks/titanium-wall](https://mindustrygame.github.io/wiki/blocks/190-titanium-wall/); [Mindustry/wiki/blocks/scrap-wall-huge](https://mindustrygame.github.io/wiki/blocks/203-scrap-wall-huge/)
+---
 ### 
 > Name: [VoidFox](https://github.com/VoidF0x) [夜狐](https://github.com/Yoru-Kitsune) [Anuken](https://github.com/Anuken)
 > 
