@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: Gold Smelter
+description: "Makes gold from raw gold, coal and power."
+itemCapacity: 10
+health: 500
+size: 2
+hasItems: true
+hasPower: true
+craftTime: 60
+buildCostMultiplier: 1
+solid: true
+canOverdrive: true
+hasShadow: true
+consumes: {
+  power: 1
+  items: {
+    items: [
+      gold-raw/3
+      coal/1
+    ]
+  }
+}
+requirements: [
+  copper/150
+  lead/150
+]
+category: crafting
+craftEffect: none
+updateEffect: none
+outputItem: gold/1

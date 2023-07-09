@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Steel Smith
+description: Melts steel from iron, coal, and oil
+itemCapacity: 20
+liquidCapacity: 50
+health: 500
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+buildCostMultiplier: 1
+drawLiquidLight: true
+consumes: {
+  power: 1
+  items: {
+    items: [
+      iron/2
+      coal/1
+    ]
+  }
+  liquid: {
+    liquid: oil
+    amount: 0.1  }
+}
+requirements: [
+  iron/80
+  copper/200
+  lead/150
+  silicon/50
+  graphite/100
+]
+category: crafting
+outputItem: steel/1

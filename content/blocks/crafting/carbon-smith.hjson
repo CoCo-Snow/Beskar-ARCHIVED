@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: Carbon Smith
+description: "Creates carbon from steel and silicon."
+itemCapacity: 30
+health: 500
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 300
+buildCostMultiplier: 1
+drawLiquidLight: true
+consumes: {
+  power: 2
+  items: {
+    items: [
+      coal/15
+      steel/5
+      silicon/2
+    ]
+  }
+}
+requirements: [
+  copper/300
+  lead/300
+  silicon/200
+  graphite/180
+  steel/100
+]
+category: crafting
+outputItem: carbon/1
+buildCostMultiplier: 1
+flameColor: FFCC40
+updateEffect: lightningCharge
+updateEffectChance: 0.1

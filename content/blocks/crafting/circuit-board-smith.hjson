@@ -1,0 +1,37 @@
+type: GenericSmelter
+name: Circuit Board Smith
+description: "Makes circuit boards from plastanium, copper, palladium, surge alloy and silicon."
+itemCapacity: 20
+health: 500
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 15
+buildCostMultiplier: 1
+drawLiquidLight: true
+consumes: {
+  power: 3
+  items: {
+    items: [
+      plastanium/3
+      copper/5
+      palladium/2
+      silicon/4
+      surge-alloy/5
+    ]
+  }
+}
+requirements: [
+  copper/800
+  lead/800
+  iron/800
+  silicon/500
+  graphite/500
+  steel/500
+  carbon/500
+]
+category: crafting
+outputItem: circuit-board/1
+updateEffect: reactorsmoke
+flameColor: FFCC40
+buildCostMultiplier: 0.15
