@@ -1,0 +1,10 @@
+name: "[#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Phase Wall"
+description: Protects structures from enemy projectiles, reflecting all bullets upon impact.
+type: wall
+health: 9030
+size: 5
+requirements: [
+  phase-fabric/200
+]
+chanceDeflect: 100
+category: defense

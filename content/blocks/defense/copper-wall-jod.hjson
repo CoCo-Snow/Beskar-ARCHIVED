@@ -1,0 +1,9 @@
+name: "Copper Wall - [#FEB380]J[#E98877]o[#BC5451]d"
+description: Protects structures from enemy projectiles - Jod
+type: wall
+health: 48860
+size: 10
+requirements: [
+  copper/600
+]
+category: defense

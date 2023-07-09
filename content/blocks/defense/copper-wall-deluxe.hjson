@@ -1,0 +1,9 @@
+name: "[#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Copper Wall"
+description: Protects structures from enemy projectiles.
+type: wall
+health: 4900
+size: 5
+requirements: [
+  copper/200
+]
+category: defense

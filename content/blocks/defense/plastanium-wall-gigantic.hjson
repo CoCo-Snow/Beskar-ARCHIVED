@@ -1,0 +1,12 @@
+name: Gigantic Plastanium Wall
+description: Protects structures From enemy projectiles. Absorbs lesers and electric arcs. Blocks automatic power connections.
+type: wall
+health: 5020
+size: 4
+requirements: [
+  plastanium/80
+  metaglass/32
+]
+insulated: true
+absorbLasers: true
+category: defense

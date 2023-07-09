@@ -1,0 +1,14 @@
+name: "[#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Surge Wall"
+description: Protects structures from enemy projectiles, periodically releasing electric arcs upon contact.
+type: wall
+health: 14050
+size: 5
+requirements: [
+  surge-alloy/200
+]
+lightningChance: 1
+lightningDamage: 300
+lightningLength: 20
+lightningColor: BC5451
+category: defense
+canOverdrive: true

@@ -1,0 +1,9 @@
+name: Copper Wall - Daleth
+description: Protects structures from enemy projectiles - Daleth
+type: wall
+health: 1150
+size: 4
+requirements: [
+  copper/96
+]
+category: defense

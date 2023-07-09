@@ -1,0 +1,9 @@
+name: Copper Wall - Gimel
+description: Protects structures from enemy projectiles - Gimel
+type: wall
+health: 740
+size: 3
+requirements: [
+  copper/54
+]
+category: defense

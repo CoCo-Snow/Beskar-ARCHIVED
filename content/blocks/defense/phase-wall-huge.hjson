@@ -1,0 +1,10 @@
+name: Huge Phase Wall
+description: Protects structures from enemy projectiles, reflecting most bullets upon impact.
+type: wall
+health: 3700
+size: 3
+requirements: [
+  phase-fabric/54
+]
+chanceDeflect: 20
+category: defense

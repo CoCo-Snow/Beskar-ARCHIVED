@@ -1,0 +1,9 @@
+name: Gigantic Thorium Wall
+description: Protects structures from enemy projectiles.
+type: wall
+health: 7720
+size: 4
+requirements: [
+  thorium/96
+]
+category: defense

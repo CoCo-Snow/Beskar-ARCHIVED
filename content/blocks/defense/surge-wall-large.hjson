@@ -1,0 +1,11 @@
+//override
+lightningChance: 0.10
+lightningDamage: 30
+canOverdrive: true
+details: "Modified by Beskar:
+canOverdrive = true
+lightningChance = +5%
+lightningDamage = +10
+
+Code: Anuken (Edit 夜狐)
+Textures: Anuken"

@@ -1,0 +1,10 @@
+name: Gigantic Phase Wall
+description: Protects structures from enemy projectiles, reflecting most bullets upon impact.
+type: wall
+health: 5780
+size: 4
+requirements: [
+  phase-fabric/96
+]
+chanceDeflect: 50
+category: defense

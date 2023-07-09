@@ -1,0 +1,9 @@
+name: "[#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Scrap Wall"
+type: wall
+health: 3450
+size: 5
+requirements: [
+  scrap/200
+]
+category: defense
+buildVisibility: sandboxOnly

@@ -1,0 +1,9 @@
+name: "[#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Titanium Wall"
+description: Exceeds life limit.
+type: wall
+health: 6730
+size: 5
+requirements: [
+  titanium/200
+]
+category: defense

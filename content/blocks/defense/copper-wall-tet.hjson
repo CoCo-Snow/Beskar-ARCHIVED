@@ -1,0 +1,9 @@
+name: Copper Wall - Tet
+description: Protects structures from enemy projectiles - Tet
+type: wall
+health: 16290
+size: 9
+requirements: [
+  copper/468
+]
+category: defense

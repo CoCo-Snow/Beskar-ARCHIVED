@@ -1,0 +1,10 @@
+name: Copper Wall - Beth
+description: Protects structures from enemy projectiles - Beth
+details: "-Modified by Beskar-"
+// type: wall
+health: 480
+size: 2
+requirements: [
+  copper/24
+]
+category: defense

@@ -1,0 +1,12 @@
+name: "[#FCB380]D[#E98877]e[#BC5451]l[#FCB380]u[#E98877]x[#BC5451]e[#ffffff] Plastanium Wall"
+description: Protects structures From enemy projectiles. Absorbs lasers and electric arcs. Blocks automatic power connections.
+type: wall
+health: 7940
+size: 5
+requirements: [
+  plastanium/200
+  metaglass/100
+]
+insulated: true
+absorbLasers: true
+category: defense

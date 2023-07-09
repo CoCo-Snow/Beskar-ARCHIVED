@@ -1,0 +1,9 @@
+name: Copper Wall - Zajin
+description: Protects structures from enemy projectiles - Zajin
+type: wall
+health: 5130
+size: 7
+requirements: [
+  copper/294
+]
+category: defense

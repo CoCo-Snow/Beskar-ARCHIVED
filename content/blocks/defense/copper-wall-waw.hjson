@@ -1,0 +1,9 @@
+name: Copper Wall - Waw
+description: Protects structures from enemy projectiles - Waw
+type: wall
+health: 3050
+size: 6
+requirements: [
+  copper/216
+]
+category: defense

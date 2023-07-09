@@ -1,0 +1,10 @@
+name: Copper Wall - Aleph
+description: Protects structures from enemy projectiles - Aleph
+details: "-Modified by Beskar-"
+// type: wall
+health: 120
+size: 1
+requirements: [
+  copper/6
+]
+category: defense

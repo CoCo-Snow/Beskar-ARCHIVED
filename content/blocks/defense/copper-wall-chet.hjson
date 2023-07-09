@@ -1,0 +1,9 @@
+name: Copper Wall - Chet
+description: Protects structures from enemy projectiles - Chet
+type: wall
+health: 9000
+size: 8
+requirements: [
+  copper/384
+]
+category: defense

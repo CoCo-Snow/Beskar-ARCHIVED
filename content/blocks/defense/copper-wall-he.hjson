@@ -1,0 +1,9 @@
+name: Copper Wall - He
+description: Protects structures from enemy projectiles - He
+type: wall
+health: 1860
+size: 5
+requirements: [
+  copper/150
+]
+category: defense
