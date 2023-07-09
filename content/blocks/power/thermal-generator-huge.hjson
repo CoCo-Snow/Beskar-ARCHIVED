@@ -1,0 +1,15 @@
+type:ThermalGenerator,
+name: Huge Thermal Generator,
+description: "Generates power when placed in hot locations",
+size: 3,
+floating: true
+powerProduction: 2,
+requirements: [
+  copper/100
+  lead/120
+  metaglass/100
+  graphite/80
+  silicon/80
+]
+category: power,
+generateEffect: redgeneratespark
