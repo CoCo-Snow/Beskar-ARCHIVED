@@ -1,0 +1,11 @@
+name: Helium
+heatCapacity: 0.8
+flammability: 0
+explosiveness: 0
+temperature: 0.1
+viscosity: 0.71
+gas: true
+gasColor: D4ECF0
+color: D4ECF0
+barColor: D4ECF0
+lightColor: D4ECF0

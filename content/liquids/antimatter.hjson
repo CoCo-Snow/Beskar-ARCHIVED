@@ -1,0 +1,9 @@
+name: Antimatter
+heatCapacity: 0.4
+flammability: 0
+explosiveness: 10
+temperature: 0.5
+viscosity: 0.01
+color: A333DF
+barColor: A333DF
+lightColor: A333DF

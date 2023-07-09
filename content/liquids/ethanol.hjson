@@ -1,0 +1,9 @@
+name: Ethanol
+heatCapacity: 0.2
+flammability: 0.6
+explosiveness: 0
+temperature: 0.8
+viscosity: 0.78
+color: D8DE7C
+barColor: D8DE7C
+lightColor: D8DE7C

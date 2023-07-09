@@ -1,0 +1,9 @@
+name: Fuel
+heatCapacity: 0
+flammability: 1
+explosiveness: 0
+temperature: 1.5
+viscosity: 0.72
+color: D9D832
+barColor: D9D832
+lightColor: D9D832
