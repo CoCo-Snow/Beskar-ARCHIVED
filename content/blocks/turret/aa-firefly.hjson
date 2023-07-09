@@ -1,0 +1,83 @@
+type: ItemTurret
+name: AA Firefly
+description: "It makes you flying thing in swiss cheese."
+health: 2000
+size: 3 
+hasItems: true
+hasLiquids: true
+hasPower: true
+reloadTime: 0
+cooldown: 0.00000000000000000000000000000001
+range: 400
+shootSound: laserblast
+shots: 9999999999999
+spread: 0
+inaccuracy: 1
+maxAmmo: 500
+consumes: {
+  power: 1000
+}
+ammoTypes: {
+  steel: {
+    type: BasicBulletType
+    speed: 10
+    damage: 200
+    lifetime: 40
+    width: 2
+    height: 4
+    shootEffect: none
+    smokeEffect: none
+    shrinkY: 0
+    hitEffect: hitBulletSmall
+    despawnEffect: shootSmallSmoke
+    ammoMultiplier: 25
+    pierce: true
+    pierceBuilding: true
+    knockback: 0
+    collidesTeam: false
+    collidesGround: false
+    collidesAir: true
+    reflectable: false
+    absorbable: true
+    pierceCap: 5
+    sprite: beskar-mod-aa-fire-steel
+    shootEffect: shootSmallSmoke
+  }
+  beskar: {
+    type: BasicBulletType
+    speed: 10
+    damage: 1000
+    lifetime: 40
+    frontColor: d99d73
+    backColor: eac2a9
+    width: 2
+    height: 4
+    shrinkY: 0
+    shootEffect: none
+    smokeEffect: none
+    hitEffect: hitBulletSmall
+    despawnEffect: shootSmallSmoke
+    ammoMultiplier: 100
+    pierce: true
+    pierceBuilding: true
+    knockback: 0
+    collidesTeam: false
+    collidesGround: false
+    collidesAir: true
+    reflectable: false
+    absorbable: false
+    pierceCap: 20
+    sprite: beskar-mod-aa-fire-beskar
+    shootEffect: shootSmallSmoke
+  }
+}
+rotateSpeed: 10,
+targetAir: true
+targetGround: false
+requirements: [
+  copper/150
+  lead/150
+  titanium/100
+  graphite/80
+]
+category: turret
