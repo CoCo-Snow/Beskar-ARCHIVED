@@ -1,0 +1,14 @@
+type: Conveyor
+health: 1200
+name: Beskar Conveyor
+description: Neooooooom
+solid: false
+update: true
+requirements: [
+  beskar/2
+  gear/12
+  carbon/6
+]
+category: distribution
+speed: 0.8
+displayedSpeed: 72
