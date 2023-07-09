@@ -1,0 +1,10 @@
+"name": "Raw Gold",
+"description": "Unmelted gold",
+details: " Code: Partyboy
+ Textures: Skyrim (Edit Partyboy)"
+"cost": 0,
+"color": "FFE313",
+"hardness": 1
+"flammability": 0,
+"radioactivity": 0,
+"explosiveness": 0,

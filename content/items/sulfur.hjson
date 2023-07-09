@@ -1,0 +1,9 @@
+"name": "Sulfur",
+details: " Code: 夜狐
+ Textures: 夜狐"
+"cost": 0,
+"color": "EDE736",
+"hardness": 4,
+"flammability": 2.5,
+"radioactivity": 0.5,
+"explosiveness": 1,

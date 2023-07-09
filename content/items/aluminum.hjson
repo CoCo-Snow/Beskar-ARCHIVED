@@ -1,0 +1,7 @@
+name: Aluminum,
+cost: 1,
+color: "C1C1C1",
+hardness: 2,
+flammability: 0,
+radioactivity: 0,
+explosiveness: 0,

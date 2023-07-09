@@ -1,0 +1,9 @@
+name: Beskar,
+details: " Code: Partyboy
+ Textures: Partyboy"
+cost: 500,
+color: "A28CBA",
+hardness: 8,
+flammability: 0,
+radioactivity: 0,
+explosiveness: 0,
