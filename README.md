@@ -1,7 +1,9 @@
 # Beskar
 
-A English and German Mindustry Modification by 夜狐 (Yoru Kitsune) and VoidFox
+An english and german mindustry mod by Yoru Kitsune and VoidÆngel
 
-English-Translation: 夜狐 & VoidFox
+---
 
-German-Translation: 夜狐
+English-translation: Yoru Kitsune & VoidÆngel
+
+German-translation: Yoru Kitsuen
