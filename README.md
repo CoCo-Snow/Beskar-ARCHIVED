@@ -1,9 +1,9 @@
 # Beskar
 
-An english and german mindustry mod by Yoru Kitsune and VoidÆngel
+An archived V6 hardcore Mindustry mod by CoCo Snow and VoidÆngel
 
 ---
 
-English-translation: Yoru Kitsune & VoidÆngel
+English: CoCo Snow & VoidÆngel
 
-German-translation: Yoru Kitsune
+German: CoCo Snow
