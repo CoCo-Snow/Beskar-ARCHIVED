@@ -1,8 +1,8 @@
-name: "beskar-mod"
-displayName: "Beskar (OUTDATED)"
+name: "beskar-contentpack"
+displayName: "Beskar (ARCHIVED)"
 subtitle: "> READ DESCRIPTION <"
-author: "Yoru Kitsune & Void_Ængel\nGerman Translation: Yoru Kitsune"
-description: "An outdated hardcore mod.\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Sequel mod is work in progress)"
+author: "CoCo-Snow & Void_Ængel"
+description: "An archived V6 hardcore mod.\n\nCONTAINS WORLD-BREAKING BLOCKS!!!\n\n(Sequel mod is work in progress)"
 version: "0.0.7"
-minGameVersion: "144.3"
-repo: Yoru-Kitsune/Beskar-OUTDATED
+minGameVersion: "146"
+repo: Yoru-Kitsune/Beskar-ARCHIVED
